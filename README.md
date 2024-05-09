@@ -19,3 +19,8 @@ This project implements an object-following robot utilizing fuzzy control algori
 
 ### Server-Client Communication
 ![image](https://github.com/Phitienphan/FuzzyRobot/assets/133135507/d2b80c7b-b9e5-4b3a-96a2-1c64515a5858)
+
+
+
+ROBOT
+![image](https://github.com/Phitienphan/FuzzyRobot/assets/133135507/50fa5212-7d5d-4148-a1b5-04f0f60d8892)
